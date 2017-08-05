@@ -7,4 +7,4 @@ These short scripts allow to take screenshots into clipboard. It aims at copying
 - windowclip : manually click on a window to make a screenshot of it
 
 ##Requirements
-Needs python2, import packages
+Needs `import` and `xclip` packages
